@@ -8,7 +8,7 @@ public class EvenOrOdd
 Class Test{
   public static void CheckEvenOrOdd(int a)
 {
-  if(a%==0){
+  if(a%2==0){
      System.out.println(a+" is even number ");
    }
    else{
